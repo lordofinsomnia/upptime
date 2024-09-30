@@ -31,13 +31,14 @@ sites:
     url: https://api.he.terracore.tech/wsMarketData/liveness
   - name: Exo Websocket
     url: https://api.he.terracore.tech/webSockets/liveness
-  - name: Exo kubernetes
+  - name: Exo Kubernetes
     url: 49.13.214.224
     port: 6443
     check: "tcp-ping"
     ipv6: false
-  - name: Kubernetes DNS
-    url: https://49.13.214.224:6443/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
+  - name: Exo Kubernetes DNS
+    url: https://49.13.214.224/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
+    port: 6443
     expectedStatusCodes:
       - 200
       - 401
