@@ -3,19 +3,44 @@ owner: lordofinsomnia # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Exo accounting
+    url: https://api.he.terracore.tech/accounting/liveness
+  - name: Exo crm
+    url: https://crm.he.terracore.tech/
+  - name: Exo cryptoNode
+    url: https://api.he.terracore.tech/cryptoNode/liveness
+  - name: Exo ethereumNode
+    url: https://api.he.terracore.tech/ethereumNode/liveness
+  - name: Exo ethereumNode
+    url: https://api.he.terracore.tech/ethereumNode/liveness
+  - name: Exo identity
+    url: https://api.he.terracore.tech/identity/liveness
+  - name: Exo identity
+    url: https://api.he.terracore.tech/identity/liveness
+  - name: Exo identity
+    url: https://api.he.terracore.tech/marketData/liveness
+  - name: Exo notifications
+    url: https://api.he.terracore.tech/notifications/liveness
+  - name: Exo notifications
+    url: https://api.he.terracore.tech/notifications/liveness
+  - name: Exo trader
+    url: https://trader.he.terracore.tech/
+  - name: Exo Websocket Market Data
+    url: https://api.he.terracore.tech/wsMarketData/liveness
+  - name: Exo Websocket Market Data
+    url: https://api.he.terracore.tech/wsMarketData/liveness
+  - name: Exo Websocket
+    url: https://api.he.terracore.tech/webSockets/liveness
+  - name: Exo kubernetes
+    url: 49.13.214.224
+    port: 6443
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
+  - name: Kubernetes DNS
+    url: https://49.13.214.224:6443/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
+    expectedStatusCodes:
+      - 200
+      - 401
 
 status-website:
 #  # Add your custom domain name, or remove the `cname` line if you don't have a domain
