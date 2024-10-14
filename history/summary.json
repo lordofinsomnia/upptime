@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
     "slug": "exo-accounting",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.36%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 861,
     "timeDay": 314,
     "timeWeek": 1253,
     "timeMonth": 861,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2024-10-14": 52,
+      "2024-10-14": 107,
       "2024-10-09": 23
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/crm.he.terracore.tech.ico",
     "slug": "exo-crm",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.72%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 407,
     "timeDay": 406,
     "timeWeek": 372,
     "timeMonth": 407,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2024-10-14": 1
+      "2024-10-14": 56
     }
   },
   {
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
     "slug": "exo-crypto-node",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.72%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 117,
     "timeDay": 123,
     "timeWeek": 109,
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-10-14": 1
+      "2024-10-14": 56
     }
   },
   {
@@ -66,18 +66,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
     "slug": "exo-ethereum-node",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.72%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 117,
     "timeDay": 114,
     "timeWeek": 105,
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-10-14": 1
+      "2024-10-14": 56
     }
   },
   {
@@ -86,18 +86,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
     "slug": "exo-ethereum-node",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.72%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 117,
     "timeDay": 114,
     "timeWeek": 105,
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-10-14": 1
+      "2024-10-14": 56
     }
   },
   {
@@ -106,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
     "slug": "exo-identity",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.47%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 149,
     "timeDay": 98,
     "timeWeek": 126,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-10-14": 52
+      "2024-10-14": 107
     }
   },
   {
@@ -126,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
     "slug": "exo-identity",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.47%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 149,
     "timeDay": 98,
     "timeWeek": 126,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-10-14": 52
+      "2024-10-14": 107
     }
   },
   {
@@ -146,18 +146,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
     "slug": "exo-identity",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.47%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 149,
     "timeDay": 98,
     "timeWeek": 126,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-10-14": 52
+      "2024-10-14": 107
     }
   },
   {
@@ -166,18 +166,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
     "slug": "exo-notifications",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.65%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 162,
     "timeDay": 168,
     "timeWeek": 148,
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-10-14": 17
+      "2024-10-14": 72
     }
   },
   {
@@ -186,18 +186,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
     "slug": "exo-notifications",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.65%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 162,
     "timeDay": 168,
     "timeWeek": 148,
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-10-14": 17
+      "2024-10-14": 72
     }
   },
   {
@@ -205,35 +205,17 @@
     "url": "https://trader.he.terracore.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/trader.he.terracore.tech.ico",
     "slug": "exo-trader",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 317,
-    "timeWeek": 358,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Exo Websocket Market Data",
-    "url": "https://api.he.terracore.tech/wsMarketData/liveness",
-    "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
-    "slug": "exo-websocket-market-data",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 114,
-    "timeWeek": 148,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "time": 401,
+    "timeDay": 314,
+    "timeWeek": 352,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2024-10-14": 1
     }
@@ -244,18 +226,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
     "slug": "exo-websocket-market-data",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.73%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 135,
     "timeDay": 114,
     "timeWeek": 148,
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2024-10-14": 1
+      "2024-10-14": 56
+    }
+  },
+  {
+    "name": "Exo Websocket Market Data",
+    "url": "https://api.he.terracore.tech/wsMarketData/liveness",
+    "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
+    "slug": "exo-websocket-market-data",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 135,
+    "timeDay": 114,
+    "timeWeek": 148,
+    "timeMonth": 135,
+    "timeYear": 135,
+    "dailyMinutesDown": {
+      "2024-10-14": 56
     }
   },
   {
@@ -264,18 +266,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.he.terracore.tech.ico",
     "slug": "exo-websocket",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.73%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 117,
     "timeDay": 123,
     "timeWeek": 109,
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-10-14": 1
+      "2024-10-14": 56
     }
   },
   {
@@ -313,7 +315,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-14": 1312,
+      "2024-10-14": 1367,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
