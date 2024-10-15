@@ -1,7 +1,7 @@
 url: https://api.he.terracore.tech/wsMarketData/liveness
-status: down
-code: 404
-responseTime: 94
-lastUpdated: 2024-10-14T23:06:50.961Z
+status: up
+code: 200
+responseTime: 97
+lastUpdated: 2024-10-15T00:39:24.266Z
 startTime: 2024-09-30T20:02:00.996Z
 generator: Upptime <https://github.com/upptime/upptime>
