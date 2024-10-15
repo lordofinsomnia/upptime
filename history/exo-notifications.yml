@@ -1,7 +1,7 @@
 url: https://api.he.terracore.tech/notifications/liveness
-status: up
-code: 200
-responseTime: 100
-lastUpdated: 2024-10-15T05:29:58.747Z
+status: down
+code: 404
+responseTime: 98
+lastUpdated: 2024-10-15T05:45:47.043Z
 startTime: 2024-09-30T20:01:59.659Z
 generator: Upptime <https://github.com/upptime/upptime>
