@@ -1,7 +1,7 @@
 url: https://api.he.terracore.tech/ethereumNode/liveness
-status: down
-code: 404
-responseTime: 98
-lastUpdated: 2024-10-15T05:45:42.173Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2024-10-15T10:51:01.695Z
 startTime: 2024-09-30T20:01:57.734Z
 generator: Upptime <https://github.com/upptime/upptime>
