@@ -1,7 +1,7 @@
-url: https://api.he.terracore.tech/marketData/liveness
+url: https://api.he.terracore.tech/identity/liveness
 status: up
 code: 200
-responseTime: 157
-lastUpdated: 2024-10-15T23:07:13.576Z
+responseTime: 837
+lastUpdated: 2024-10-16T23:07:12.730Z
 startTime: 2024-09-30T20:01:58.446Z
 generator: Upptime <https://github.com/upptime/upptime>
