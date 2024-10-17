@@ -1,7 +1,7 @@
 url: https://api.he.terracore.tech/accounting/liveness
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-17T19:59:25.652Z
+status: up
+code: 200
+responseTime: 435
+lastUpdated: 2024-10-17T20:29:55.434Z
 startTime: 2024-09-30T20:01:55.964Z
 generator: Upptime <https://github.com/upptime/upptime>
